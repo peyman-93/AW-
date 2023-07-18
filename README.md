@@ -1,2 +1,2 @@
-# AW-
+# AW*
 A* in WareHouses
